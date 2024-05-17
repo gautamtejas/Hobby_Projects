@@ -1,4 +1,4 @@
-# React + Vite
+# Joke_Generator
 
 With React we tried making and Joke generator by calling and existing API.
 
